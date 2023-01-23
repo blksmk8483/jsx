@@ -1,2 +1,0 @@
-# jsx
-My Readme
